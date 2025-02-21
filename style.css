@@ -1,0 +1,23 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background: #000;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+#game {
+	border: 1px solid #fff;
+}
+
+#start {
+	margin-top: 20px;
+	padding: 10px 20px;
+	background: #fff;
+	color: #000;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
