@@ -14,3 +14,4 @@ This is a simple implementation of the classic Snake game using HTML, CSS, and J
     *   **Left Arrow:** Move the snake left.
     *   **Right Arrow:** Move the snake right.
 4.  The game ends if the snake collides with the walls or itself. Your score will be displayed in an alert box.
+Deployed site -: "https://deepen-snake-game.netlify.app/"
